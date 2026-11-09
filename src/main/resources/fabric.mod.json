@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "disastres_naturais",
+  "version": "${version}",
+  "name": "Desastres Naturais",
+  "description": "Desastres naturais com efeitos sonoros e ventos fortes que arrastam blocos.",
+  "authors": ["Overgrid Studio"],
+  "license": "CC0-1.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.overgrid.disastres.DisastresNaturais"],
+    "client": ["com.overgrid.disastres.DisastresNaturaisClient"]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.17.3",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

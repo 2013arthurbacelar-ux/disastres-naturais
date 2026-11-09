@@ -1,0 +1,20 @@
+{
+  "wind_gust": {
+    "sounds": [{ "name": "disastres_naturais:wind/gust", "stream": false }]
+  },
+  "wind_howl": {
+    "sounds": [{ "name": "disastres_naturais:wind/howl", "stream": false }]
+  },
+  "tornado_loop": {
+    "sounds": [{ "name": "disastres_naturais:tornado/loop", "stream": true }]
+  },
+  "earthquake_rumble": {
+    "sounds": [{ "name": "disastres_naturais:earthquake/rumble", "stream": false }]
+  },
+  "debris_crash": {
+    "sounds": [{ "name": "disastres_naturais:debris/crash", "stream": false }]
+  },
+  "thunder_far": {
+    "sounds": [{ "name": "disastres_naturais:thunder/far", "stream": false }]
+  }
+}
